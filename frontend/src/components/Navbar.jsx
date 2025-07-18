@@ -36,6 +36,9 @@ const Navbar = () => {
           <li className='py-1'>CONTACT</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
+        <a href='https://doctorsadmin-ni6f.onrender.com' target='_blank' rel='noopener noreferrer'>
+  <li className='py-1'>ADMIN PANEL</li>
+</a>
       </ul>
 
       <div className='flex items-center gap-4 '>
